@@ -5,6 +5,9 @@
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
     <PackageId>PAYNLSDK</PackageId>
+    <Version>1.0.0.12</Version>
+    <Authors>I-Synergy</Authors>
+    <Company>Ismail Hassani</Company>
   </PropertyGroup>
   
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
